@@ -1,1 +1,1 @@
-## Files related movie booking and checkout
+## Files related to movie booking and checkout
